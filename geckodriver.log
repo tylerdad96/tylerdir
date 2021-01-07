@@ -1,0 +1,24 @@
+1606904301136	geckodriver	INFO	Listening on 127.0.0.1:54799
+1606904465661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TYLERT~1\\AppData\\Local\\Temp\\rust_mozprofile.LAMBRtfckQtE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606904468797	Marionette	INFO	Listening on port 55029
+1606904469303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://at-client-portal-uat-proxy.ntdevops.com/js/app.71eb860d.js, line 1: TypeError: window.dataLayer is undefined
+1606904496075	Marionette	INFO	Stopped listening on port 55029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606961471115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TYLERT~1\\AppData\\Local\\Temp\\rust_mozprofile.i5Rc3jaFXVEL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606961473635	Marionette	INFO	Listening on port 58798
+1606961473771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://at-client-portal-uat-proxy.ntdevops.com/js/app.cbf68886.js, line 1: TypeError: window.dataLayer is undefined
+1606961488742	Marionette	INFO	Stopped listening on port 58798
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
